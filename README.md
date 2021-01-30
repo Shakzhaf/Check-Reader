@@ -11,7 +11,7 @@ A bank check needs to be scanned and some vital information information needs to
 
 
 ## Note
-The picture which you are given should be taken under the following conditions:
+The picture which you are taking as input should be taken under the following conditions:
 - The room should be well lit.
 - The picture should be taken with teh help of CamScanner App and flash should be used.
 - Keep ur hands very steady and do not shake while clicking the picture.
